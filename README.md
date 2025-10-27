@@ -26,6 +26,10 @@ my_project/
 ├── bin/                        # Folder for the final compiled executable
 │   └── my_project.exe
 │
+├── build/                      # Folder for intermediate object files
+│   └── main.obj                # Where intermediate object files (.obj) are located
+│   └── utils.obj
+│
 ├── include/                    # Folder for header files (.h, .hpp)
 │   └── utils.h 
 │
